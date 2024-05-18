@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "648200290253",
+      "project_id": "app-notificacao-agendada",
+      "storage_bucket": "app-notificacao-agendada.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:648200290253:android:5a39801e30b5c1e9608e84",
+          "android_client_info": {
+            "package_name": "bruna.morais.menezes.appnotificacao"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCT2atjjr-rkLOP24QdCAFfowHs1JqeYS0"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
